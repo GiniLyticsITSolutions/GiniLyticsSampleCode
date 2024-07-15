@@ -1,1 +1,1 @@
-# Sample Code By Ginilytics IT solutions. 
+# GiniLytics IT Solutions Sample Code.
